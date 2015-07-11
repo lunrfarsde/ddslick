@@ -49,7 +49,7 @@
                 '.dd-options > li:last-child > .dd-option{ border-bottom:none;}' +
                 '.dd-option:hover{ background:#f3f3f3; color:#000;}' +
                 '.dd-option-selected { background:#f6f6f6; }' +
-                '.dd-option-image, .dd-selected-image { vertical-align:middle; float:left; margin-right:5px; max-width:64px;}' +
+                '.dd-option-image, .dd-selected-image { vertical-align:middle; margin-right:5px; max-width:64px;}' +
                 '.dd-image-right { float:right; margin-right:15px; margin-left:5px;}' +
                 '.dd-container{ position:relative;}​ .dd-selected-text { font-weight:bold}​</style>';
 
